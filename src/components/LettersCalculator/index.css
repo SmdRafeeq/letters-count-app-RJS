@@ -1,0 +1,44 @@
+.lettersCal-container {
+    background-image: linear-gradient(to right, #1d976c, #93f9b9);
+    min-height: 100vh;
+    font-family: Roboto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.heading {
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.calculator-container {
+   margin-left: 80px;
+}
+
+.phrase-label {
+    font-size: 18px;
+    color: #fff;
+}
+
+.input-search {
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #ffffff;
+    margin: 10px 0;
+}
+
+.nos-count {
+    background-color: #ffffff;
+    border-radius: 8px;
+    color:  #219a6f;
+    width: 150px;
+    padding: 15px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.calculator-img {
+    width: 80%;
+}
